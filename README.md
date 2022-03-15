@@ -1,2 +1,2 @@
 # test
-testing somethings
+tips of somethings
